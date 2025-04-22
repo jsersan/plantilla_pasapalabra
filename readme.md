@@ -31,3 +31,4 @@
 
 ![Game Finished](https://github.com/MarioTerron/pasapalabra/blob/master/img/05.jpg)
 # jquery_pasapalabra
+# jquery_pasapalabra JSON

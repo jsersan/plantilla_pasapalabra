@@ -1,556 +1,557 @@
+[
 [{
-			"num": "0",
-			"letra": "A",
-			"hint": "Empieza por A:",
-			"enunciado": " Relato breve de un acontecimiento extraño, curioso o divertido, generalmente ocurrido a la persona que lo cuenta",
-			"respuesta": "Anécdota"
-		},
-		{
-			"num": "1",
-			"letra": "B",
-			"hint": "Empieza por B:",
-			"enunciado": "Pasta dulce y esponjosa, hecha con harina, huevos, levadura y otros ingredientes, que puede tener distintas formas",
-			"respuesta": "Bollo"
-		},
-		{
-			"num": "2",
-			"letra": "C",
-			"hint": "Empieza por C:",
-			"enunciado": "Corriente de agua que cae desde cierta altura a causa de un brusco desnivel en su cauce, especialmente en un rio",
-			"respuesta": "Cascada"
-		},
-		{
-			"num": "3",
-			"letra": "D",
-			"hint": "Empieza por D:",
-			"enunciado": "Arma blanca de hoja corta, ancha y puntiaguda, parecida a la espada pero de menor tamaño",
-			"respuesta": "Daga"
-		},
-		{
-			"num": "4",
-			"letra": "E",
-			"hint": "Empieza por E:",
-			"enunciado": "Línea curva que describe varias vueltas alrededor de un punto, alejándose cada vez más de él",
-			"respuesta": "Espiral"
-		},
-		{
-			"num": "5",
-			"letra": "F",
-			"hint": "Empieza por F:",
-			"enunciado": "Que está descompuesto o podrido por la acción de diversos factores y determinados microorganismos",
-			"respuesta": "Putrefacto"
-		},
-		{
-			"num": "6",
-			"letra": "G",
-			"hint": "Empieza por G:",
-			"enunciado": "Que se comporta de manera ruda, tosca o grosera",
-			"respuesta": "Garrulo"
-		},
-		{
-			"num": "7",
-			"letra": "H",
-			"hint": "Contiene la H:",
-			"enunciado": "Persona o animal que es grueso y de poca altura",
-			"respuesta": "Rechoncho"
-		},
-		{
-			"num": "8",
-			"letra": "I",
-			"hint": "Empieza por I:",
-			"enunciado": "Que está en el espacio existente entre dos astros, o que tiene relación con él",
-			"respuesta": "Interestelar"
-		},
-		{
-			"num": "9",
-			"letra": "J",
-			"hint": "Empieza por J:",
-			"enunciado": "Chile picante de unos 5 cm de largo, carnoso y de punta redonda, que se usa para condimentar ciertos guisos",
-			"respuesta": "Jalapeño"
-		},
-		{
-			"num": "10",
-			"letra": "K",
-			"hint": "Empieza por K:",
-			"enunciado": "El equivalente a 1000 gramos",
-			"respuesta": "Kilogramo"
-		},
-		{
-			"num": "11",
-			"letra": "L",
-			"hint": "Contiene la L:",
-			"enunciado": "Hombre pequeño y débil",
-			"respuesta": "Homunculo"
-		},
-		{
-			"num": "12",
-			"letra": "M",
-			"hint": "Empieza por M:",
-			"enunciado": "Persona que sufre o muere por defender su religión o sus ideales",
-			"respuesta": "Mártir"
-		},
-		{
-			"num": "13",
-			"letra": "N",
-			"hint": "Empieza por N:",
-			"enunciado": "Tubo fluorescente que produce una luz brillante",
-			"respuesta": "Neón"
-		},
-		{
-			"num": "14",
-			"letra": "Ñ",
-			"hint": "Contiene la Ñ:",
-			"enunciado": "Dar a una cosa un color distinto del que tiene",
-			"respuesta": "Teñir"
-		},
-		{
-			"num": "15",
-			"letra": "O",
-			"hint": "Empieza por O:",
-			"enunciado": "Que conoce todas las cosas reales y posibles",
-			"respuesta": "Omnisciente"
-		},
-		{
-			"num": "16",
-			"letra": "P",
-			"hint": "Contiene la P:",
-			"enunciado": "Calzado de lona, con suela de esparto, cáñamo o goma, que se sujeta al pie por presión o con unas cintas que se atan al tobillo",
-			"respuesta": "Alpargata"
-		},
-		{
-			"num": "17",
-			"letra": "Q",
-			"hint": "Empieza por Q:",
-			"enunciado": "Que se puede romper fácilmente",
-			"respuesta": "Quebradizo"
-		},
-		{
-			"num": "18",
-			"letra": "R",
-			"hint": "Empieza por R:",
-			"enunciado": "Operación quirúrgica para restaurar la nariz",
-			"respuesta": "Rinoplastia"
-		},
-		{
-			"num": "19",
-			"letra": "S",
-			"hint": "Contiene la S:",
-			"enunciado": "Falta de cuidado en la forma de vestir y en el aseo personal",
-			"respuesta": "Desaliño"
-		},
+		"num": "0",
+		"letra": "A",
+		"hint": "Empieza por A:",
+		"enunciado": " Relato breve de un acontecimiento extraño, curioso o divertido, generalmente ocurrido a la persona que lo cuenta",
+		"respuesta": "Anécdota"
+	},
+	{
+		"num": "1",
+		"letra": "B",
+		"hint": "Empieza por B:",
+		"enunciado": "Pasta dulce y esponjosa, hecha con harina, huevos, levadura y otros ingredientes, que puede tener distintas formas",
+		"respuesta": "Bollo"
+	},
+	{
+		"num": "2",
+		"letra": "C",
+		"hint": "Empieza por C:",
+		"enunciado": "Corriente de agua que cae desde cierta altura a causa de un brusco desnivel en su cauce, especialmente en un rio",
+		"respuesta": "Cascada"
+	},
+	{
+		"num": "3",
+		"letra": "D",
+		"hint": "Empieza por D:",
+		"enunciado": "Arma blanca de hoja corta, ancha y puntiaguda, parecida a la espada pero de menor tamaño",
+		"respuesta": "Daga"
+	},
+	{
+		"num": "4",
+		"letra": "E",
+		"hint": "Empieza por E:",
+		"enunciado": "Línea curva que describe varias vueltas alrededor de un punto, alejándose cada vez más de él",
+		"respuesta": "Espiral"
+	},
+	{
+		"num": "5",
+		"letra": "F",
+		"hint": "Empieza por F:",
+		"enunciado": "Que está descompuesto o podrido por la acción de diversos factores y determinados microorganismos",
+		"respuesta": "Putrefacto"
+	},
+	{
+		"num": "6",
+		"letra": "G",
+		"hint": "Empieza por G:",
+		"enunciado": "Que se comporta de manera ruda, tosca o grosera",
+		"respuesta": "Garrulo"
+	},
+	{
+		"num": "7",
+		"letra": "H",
+		"hint": "Contiene la H:",
+		"enunciado": "Persona o animal que es grueso y de poca altura",
+		"respuesta": "Rechoncho"
+	},
+	{
+		"num": "8",
+		"letra": "I",
+		"hint": "Empieza por I:",
+		"enunciado": "Que está en el espacio existente entre dos astros, o que tiene relación con él",
+		"respuesta": "Interestelar"
+	},
+	{
+		"num": "9",
+		"letra": "J",
+		"hint": "Empieza por J:",
+		"enunciado": "Chile picante de unos 5 cm de largo, carnoso y de punta redonda, que se usa para condimentar ciertos guisos",
+		"respuesta": "Jalapeño"
+	},
+	{
+		"num": "10",
+		"letra": "K",
+		"hint": "Empieza por K:",
+		"enunciado": "El equivalente a 1000 gramos",
+		"respuesta": "Kilogramo"
+	},
+	{
+		"num": "11",
+		"letra": "L",
+		"hint": "Contiene la L:",
+		"enunciado": "Hombre pequeño y débil",
+		"respuesta": "Homunculo"
+	},
+	{
+		"num": "12",
+		"letra": "M",
+		"hint": "Empieza por M:",
+		"enunciado": "Persona que sufre o muere por defender su religión o sus ideales",
+		"respuesta": "Mártir"
+	},
+	{
+		"num": "13",
+		"letra": "N",
+		"hint": "Empieza por N:",
+		"enunciado": "Tubo fluorescente que produce una luz brillante",
+		"respuesta": "Neón"
+	},
+	{
+		"num": "14",
+		"letra": "Ñ",
+		"hint": "Contiene la Ñ:",
+		"enunciado": "Dar a una cosa un color distinto del que tiene",
+		"respuesta": "Teñir"
+	},
+	{
+		"num": "15",
+		"letra": "O",
+		"hint": "Empieza por O:",
+		"enunciado": "Que conoce todas las cosas reales y posibles",
+		"respuesta": "Omnisciente"
+	},
+	{
+		"num": "16",
+		"letra": "P",
+		"hint": "Contiene la P:",
+		"enunciado": "Calzado de lona, con suela de esparto, cáñamo o goma, que se sujeta al pie por presión o con unas cintas que se atan al tobillo",
+		"respuesta": "Alpargata"
+	},
+	{
+		"num": "17",
+		"letra": "Q",
+		"hint": "Empieza por Q:",
+		"enunciado": "Que se puede romper fácilmente",
+		"respuesta": "Quebradizo"
+	},
+	{
+		"num": "18",
+		"letra": "R",
+		"hint": "Empieza por R:",
+		"enunciado": "Operación quirúrgica para restaurar la nariz",
+		"respuesta": "Rinoplastia"
+	},
+	{
+		"num": "19",
+		"letra": "S",
+		"hint": "Contiene la S:",
+		"enunciado": "Falta de cuidado en la forma de vestir y en el aseo personal",
+		"respuesta": "Desaliño"
+	},
 
-		{
-			"num": "20",
-			"letra": "T",
-			"hint": "Empieza por T:",
-			"enunciado": "Persona alocada, bulliciosa y molesta",
-			"respuesta": "Tabardillo"
-		},
-		{
-			"num": "21",
-			"letra": "U",
-			"hint": "Contiene la U:",
-			"enunciado": "Persona que rehúye el trato de otras personas y rechaza las atenciones y muestras de cariño",
-			"respuesta": "Huraño"
-		},
-		{
-			"num": "22",
-			"letra": "V",
-			"hint": "Empieza por V:",
-			"enunciado": "Tributo que el vasallo pagaba a su señor o servicio que le prestaba según este vínculo",
-			"respuesta": "Vasallaje"
-		},
-		{
-			"num": "23",
-			"letra": "X",
-			"hint": "Contiene la X:",
-			"enunciado": "Punto culminante o de mayor satisfacción de la excitación sexual en las zonas erógenas o sexuales",
-			"respuesta": "Climax"
-		},
-		{
-			"num": "24",
-			"letra": "Y",
-			"hint": "Contiene la Y:",
-			"enunciado": "Toro castrado, que se utiliza como animal de tiro y del cual se aprovecha su carne",
-			"respuesta": "Buey"
-		},
-		{
-			"num": "25",
-			"letra": "Z",
-			"hint": "Contiene la Z:",
-			"enunciado": "Que es tonto o tiene poca rapidez mental",
-			"respuesta": "Pazguato"
-		}
-	],
-	[{
-			"num": "0",
-			"letra": "A",
-			"hint": "Empieza por A:",
-			"enunciado": "Sentimiento de respeto y admiración hacia alguien o algo",
-			"respuesta": "Admiración"
-		},
-		{
-			"num": "1",
-			"letra": "B",
-			"hint": "Empieza por B:",
-			"enunciado": "Equilibrio o armonía entre diferentes elementos o aspectos",
-			"respuesta": "Balance"
-		},
-		{
-			"num": "2",
-			"letra": "C",
-			"hint": "Empieza por C:",
-			"enunciado": "Estado de tranquilidad y serenidad",
-			"respuesta": "Calma"
-		},
-		{
-			"num": "3",
-			"letra": "D",
-			"hint": "Empieza por D:",
-			"enunciado": "Elección o resolución tomada tras reflexionar y evaluar diferentes opciones",
-			"respuesta": "Decisión"
-		},
-		{
-			"num": "4",
-			"letra": "E",
-			"hint": "Empieza por E:",
-			"enunciado": "Proceso de adquisición de conocimientos, habilidades y valores a través de la enseñanza y el aprendizaje",
-			"respuesta": "Educación"
-		},
-		{
-			"num": "5",
-			"letra": "F",
-			"hint": "Empieza por F:",
-			"enunciado": "Que tiene elegancia, cortesía y amabilidad en su comportamiento",
-			"respuesta": "Familia"
-		},
-		{
-			"num": "6",
-			"letra": "G",
-			"hint": "Empieza por G:",
-			"enunciado": "Atento, cortés, obsequioso, en especial con las damas",
-			"respuesta": "Galante"
-		},
-		{
-			"num": "7",
-			"letra": "H",
-			"hint": "Contiene la H:",
-			"enunciado": "Capacidad o destreza para realizar algo con facilidad y eficacia",
-			"respuesta": "Habilidad"
-		},
-		{
-			"num": "8",
-			"letra": "I",
-			"hint": "Empieza por I:",
-			"enunciado": "Representación mental de algo o plan concebido",
-			"respuesta": "Idea"
-		},
-		{
-			"num": "9",
-			"letra": "J",
-			"hint": "Empieza por J:",
-			"enunciado": "Área al aire libre con plantas, flores y vegetación",
-			"respuesta": "Jardín"
-		},
-		{
-			"num": "10",
-			"letra": "K",
-			"hint": "Empieza por K:",
-			"enunciado": "Relativo o similar a la obra o estilo del escritor Franz Kafka, caracterizado por situaciones absurdas y opresivas",
-			"respuesta": "Kafkiano"
-		},
-		{
-			"num": "11",
-			"letra": "L",
-			"hint": "Contiene la L:",
-			"enunciado": "Persona que comete robos o hurtos",
-			"respuesta": "Ladrón"
-		},
-		{
-			"num": "12",
-			"letra": "M",
-			"hint": "Empieza por M:",
-			"enunciado": "Material obtenido de los árboles utilizado para construcciones y muebles",
-			"respuesta": "Madera"
-		},
-		{
-			"num": "13",
-			"letra": "N",
-			"hint": "Empieza por N:",
-			"enunciado": "Acción de dar a luz a un ser vivo",
-			"respuesta": "Nacimiento"
-		},
-		{
-			"num": "14",
-			"letra": "Ñ",
-			"hint": "Contiene la Ñ:",
-			"enunciado": "Estar junto a alguien o algo, ofreciendo compañía o apoyo",
-			"respuesta": "Acompañar"
-		},
-		{
-			"num": "15",
-			"letra": "O",
-			"hint": "Empieza por O:",
-			"enunciado": "Persona que realiza trabajos manuales o labor física",
-			"respuesta": "Obrero"
-		},
-		{
-			"num": "16",
-			"letra": "P",
-			"hint": "Empieza por P:",
-			"enunciado": "Capacidad de tolerar y soportar situaciones difíciles sin perder la calma",
-			"respuesta": "Paciencia"
-		},
-		{
-			"num": "17",
-			"letra": "Q",
-			"hint": "Empieza por Q:",
-			"enunciado": "Terreno accidentado y estrecho en forma de barranco o cañón",
-			"respuesta": "Quebrada"
-		},
-		{
-			"num": "18",
-			"letra": "R",
-			"hint": "Empieza por R:",
-			"enunciado": "Parte de un árbol que nace del tronco y tiene hojas, flores o frutos",
-			"respuesta": "Rama"
-		},
-		{
-			"num": "19",
-			"letra": "S",
-			"hint": "Empieza por S:",
-			"enunciado": "Sensación percibida por la lengua al probar algo",
-			"respuesta": "Sabor"
-		},
+	{
+		"num": "20",
+		"letra": "T",
+		"hint": "Empieza por T:",
+		"enunciado": "Persona alocada, bulliciosa y molesta",
+		"respuesta": "Tabardillo"
+	},
+	{
+		"num": "21",
+		"letra": "U",
+		"hint": "Contiene la U:",
+		"enunciado": "Persona que rehúye el trato de otras personas y rechaza las atenciones y muestras de cariño",
+		"respuesta": "Huraño"
+	},
+	{
+		"num": "22",
+		"letra": "V",
+		"hint": "Empieza por V:",
+		"enunciado": "Tributo que el vasallo pagaba a su señor o servicio que le prestaba según este vínculo",
+		"respuesta": "Vasallaje"
+	},
+	{
+		"num": "23",
+		"letra": "X",
+		"hint": "Contiene la X:",
+		"enunciado": "Punto culminante o de mayor satisfacción de la excitación sexual en las zonas erógenas o sexuales",
+		"respuesta": "Climax"
+	},
+	{
+		"num": "24",
+		"letra": "Y",
+		"hint": "Contiene la Y:",
+		"enunciado": "Toro castrado, que se utiliza como animal de tiro y del cual se aprovecha su carne",
+		"respuesta": "Buey"
+	},
+	{
+		"num": "25",
+		"letra": "Z",
+		"hint": "Contiene la Z:",
+		"enunciado": "Que es tonto o tiene poca rapidez mental",
+		"respuesta": "Pazguato"
+	}
+],
+[{
+		"num": "0",
+		"letra": "A",
+		"hint": "Empieza por A:",
+		"enunciado": "Sentimiento de respeto y admiración hacia alguien o algo",
+		"respuesta": "Admiración"
+	},
+	{
+		"num": "1",
+		"letra": "B",
+		"hint": "Empieza por B:",
+		"enunciado": "Equilibrio o armonía entre diferentes elementos o aspectos",
+		"respuesta": "Balance"
+	},
+	{
+		"num": "2",
+		"letra": "C",
+		"hint": "Empieza por C:",
+		"enunciado": "Estado de tranquilidad y serenidad",
+		"respuesta": "Calma"
+	},
+	{
+		"num": "3",
+		"letra": "D",
+		"hint": "Empieza por D:",
+		"enunciado": "Elección o resolución tomada tras reflexionar y evaluar diferentes opciones",
+		"respuesta": "Decisión"
+	},
+	{
+		"num": "4",
+		"letra": "E",
+		"hint": "Empieza por E:",
+		"enunciado": "Proceso de adquisición de conocimientos, habilidades y valores a través de la enseñanza y el aprendizaje",
+		"respuesta": "Educación"
+	},
+	{
+		"num": "5",
+		"letra": "F",
+		"hint": "Empieza por F:",
+		"enunciado": "Que tiene elegancia, cortesía y amabilidad en su comportamiento",
+		"respuesta": "Familia"
+	},
+	{
+		"num": "6",
+		"letra": "G",
+		"hint": "Empieza por G:",
+		"enunciado": "Atento, cortés, obsequioso, en especial con las damas",
+		"respuesta": "Galante"
+	},
+	{
+		"num": "7",
+		"letra": "H",
+		"hint": "Contiene la H:",
+		"enunciado": "Capacidad o destreza para realizar algo con facilidad y eficacia",
+		"respuesta": "Habilidad"
+	},
+	{
+		"num": "8",
+		"letra": "I",
+		"hint": "Empieza por I:",
+		"enunciado": "Representación mental de algo o plan concebido",
+		"respuesta": "Idea"
+	},
+	{
+		"num": "9",
+		"letra": "J",
+		"hint": "Empieza por J:",
+		"enunciado": "Área al aire libre con plantas, flores y vegetación",
+		"respuesta": "Jardín"
+	},
+	{
+		"num": "10",
+		"letra": "K",
+		"hint": "Empieza por K:",
+		"enunciado": "Relativo o similar a la obra o estilo del escritor Franz Kafka, caracterizado por situaciones absurdas y opresivas",
+		"respuesta": "Kafkiano"
+	},
+	{
+		"num": "11",
+		"letra": "L",
+		"hint": "Contiene la L:",
+		"enunciado": "Persona que comete robos o hurtos",
+		"respuesta": "Ladrón"
+	},
+	{
+		"num": "12",
+		"letra": "M",
+		"hint": "Empieza por M:",
+		"enunciado": "Material obtenido de los árboles utilizado para construcciones y muebles",
+		"respuesta": "Madera"
+	},
+	{
+		"num": "13",
+		"letra": "N",
+		"hint": "Empieza por N:",
+		"enunciado": "Acción de dar a luz a un ser vivo",
+		"respuesta": "Nacimiento"
+	},
+	{
+		"num": "14",
+		"letra": "Ñ",
+		"hint": "Contiene la Ñ:",
+		"enunciado": "Estar junto a alguien o algo, ofreciendo compañía o apoyo",
+		"respuesta": "Acompañar"
+	},
+	{
+		"num": "15",
+		"letra": "O",
+		"hint": "Empieza por O:",
+		"enunciado": "Persona que realiza trabajos manuales o labor física",
+		"respuesta": "Obrero"
+	},
+	{
+		"num": "16",
+		"letra": "P",
+		"hint": "Empieza por P:",
+		"enunciado": "Capacidad de tolerar y soportar situaciones difíciles sin perder la calma",
+		"respuesta": "Paciencia"
+	},
+	{
+		"num": "17",
+		"letra": "Q",
+		"hint": "Empieza por Q:",
+		"enunciado": "Terreno accidentado y estrecho en forma de barranco o cañón",
+		"respuesta": "Quebrada"
+	},
+	{
+		"num": "18",
+		"letra": "R",
+		"hint": "Empieza por R:",
+		"enunciado": "Parte de un árbol que nace del tronco y tiene hojas, flores o frutos",
+		"respuesta": "Rama"
+	},
+	{
+		"num": "19",
+		"letra": "S",
+		"hint": "Empieza por S:",
+		"enunciado": "Sensación percibida por la lengua al probar algo",
+		"respuesta": "Sabor"
+	},
 
-		{
-			"num": "20",
-			"letra": "T",
-			"hint": "Empieza por T:",
-			"enunciado": "Aptitud o habilidad natural para realizar alguna actividad con destreza",
-			"respuesta": "Talento"
-		},
-		{
-			"num": "21",
-			"letra": "U",
-			"hint": "Empieza por U:",
-			"enunciado": "Instrumento musical de cuerda similar a una guitarra pequeña, originario de Hawái",
-			"respuesta": "Ukelele"
-		},
-		{
-			"num": "22",
-			"letra": "V",
-			"hint": "Empieza por V:",
-			"enunciado": "Mamífero rumiante domesticado, criado por su leche, carne y cuero",
-			"respuesta": "Vaca"
-		},
-		{
-			"num": "23",
-			"letra": "X",
-			"hint": "Contiene la X:",
-			"enunciado": "Conjunto de circunstancias o hechos que rodean a un acontecimiento o situación",
-			"respuesta": "Contexto"
-		},
-		{
-			"num": "24",
-			"letra": "Y",
-			"hint": "Empieza por Y:",
-			"enunciado": "Forma del verbo 'yacer' en tercera persona del pasado simple",
-			"respuesta": "Yacía"
-		},
-		{
-			"num": "25",
-			"letra": "Z",
-			"hint": "Empieza por Z:",
-			"enunciado": "Zafiro",
-			"respuesta": "Gema preciosa de color azul"
-		}
-	],
-		[{
-			"num": "0",
-			"letra": "A",
-			"hint": "Empieza por A:",
-			"enunciado": "Sentimiento de estima y reconocimiento que una persona tiene hacia quien le ha hecho un favor o prestado un servicio, por el cual desea corresponderle",
-			"respuesta": "Agradecimiento"
-		},
-		{
-			"num": "1",
-			"letra": "B",
-			"hint": "Empieza por B:",
-			"enunciado": "Sustancia que se utiliza para aliviar o curar heridas o dolencias",
-			"respuesta": "Bálsamo"
-		},
-		{
-			"num": "2",
-			"letra": "C",
-			"hint": "Empieza por C:",
-			"enunciado": "Precaución, prudencia o cuidado al tomar decisiones o actuar",
-			"respuesta": "Cautela"
-		},
-		{
-			"num": "3",
-			"letra": "D",
-			"hint": "Empieza por D:",
-			"enunciado": "Acción de emplear tiempo y esfuerzo en algo con determinación",
-			"respuesta": "Dedicación"
-		},
-		{
-			"num": "4",
-			"letra": "E",
-			"hint": "Empieza por E:",
-			"enunciado": "Estado de agitación o excitación intensa",
-			"respuesta": "Efervescencia"
-		},
-		{
-			"num": "5",
-			"letra": "F",
-			"hint": "Empieza por F:",
-			"enunciado": "Creación imaginativa o irreal",
-			"respuesta": "Fantasía"
-		},
-		{
-			"num": "6",
-			"letra": "G",
-			"hint": "Empieza por G:",
-			"enunciado": "Seguridad y respaldo de algo que se promete o se ofrece",
-			"respuesta": "Garantía"
-		},
-		{
-			"num": "7",
-			"letra": "H",
-			"hint": "Empieza por H:",
-			"enunciado": "Comportamiento adquirido que se repite de manera regular",
-			"respuesta": "Hábito"
-		},
-		{
-			"num": "8",
-			"letra": "I",
-			"hint": "Empieza por I:",
-			"enunciado": "Reproducir o copiar el comportamiento o apariencia de alguien o algo",
-			"respuesta": "Imitar"
-		},
-		{
-			"num": "9",
-			"letra": "J",
-			"hint": "Empieza por J:",
-			"enunciado": "Carne curada y ahumada obtenida de las patas traseras del cerdo",
-			"respuesta": "Jamón"
-		},
-		{
-			"num": "10",
-			"letra": "K",
-			"hint": "Empieza por K:",
-			"enunciado": "Saludo en japonés que significa 'hola' o 'buenos días'",
-			"respuesta": "Konichiwa"
-		},
-		{
-			"num": "11",
-			"letra": "L",
-			"hint": "Contiene la L:",
-			"enunciado": "Marca en la piel de color más oscuro que el resto debido a una concentración de melanina",
-			"respuesta": "Lunar"
-		},
-		{
-			"num": "12",
-			"letra": "M",
-			"hint": "Empieza por M:",
-			"enunciado": "Baúl o equipaje portátil utilizado para llevar pertenencias durante los viajes",
-			"respuesta": "Maleta"
-		},
-		{
-			"num": "13",
-			"letra": "N",
-			"hint": "Empieza por N:",
-			"enunciado": "Proceso de obtener y utilizar los nutrientes necesarios para el funcionamiento del cuerpo",
-			"respuesta": "Nutrición"
-		},
-		{
-			"num": "14",
-			"letra": "Ñ",
-			"hint": "Contiene la Ñ:",
-			"enunciado": "Unidad de tiempo que equivale a 365 días, utilizado para medir el período de la Tierra alrededor del sol",
-			"respuesta": "Año"
-		},
-		{
-			"num": "15",
-			"letra": "O",
-			"hint": "Empieza por O:",
-			"enunciado": "Aplauso o muestra de aprobación entusiasta hacia alguien o algo",
-			"respuesta": "Ovación"
-		},
-		{
-			"num": "16",
-			"letra": "P",
-			"hint": "Empieza por P:",
-			"enunciado": "Persona que enseña una materia o disciplina a otras personas",
-			"respuesta": "Profesor"
-		},
-		{
-			"num": "17",
-			"letra": "Q",
-			"hint": "Empieza por Q:",
-			"enunciado": "Formación anormal en el cuerpo que contiene líquido o materia semisólida",
-			"respuesta": "Quiste"
-		},
-		{
-			"num": "18",
-			"letra": "R",
-			"hint": "Empieza por R:",
-			"enunciado": "Camino o trayecto que se sigue para llegar a un lugar determinado",
-			"respuesta": "Ruta"
-		},
-		{
-			"num": "19",
-			"letra": "S",
-			"hint": "Empieza por S:",
-			"enunciado": "Acción de vencer obstáculos y mejorar en aspectos personales",
-			"respuesta":"Superación"
-		},
+	{
+		"num": "20",
+		"letra": "T",
+		"hint": "Empieza por T:",
+		"enunciado": "Aptitud o habilidad natural para realizar alguna actividad con destreza",
+		"respuesta": "Talento"
+	},
+	{
+		"num": "21",
+		"letra": "U",
+		"hint": "Empieza por U:",
+		"enunciado": "Instrumento musical de cuerda similar a una guitarra pequeña, originario de Hawái",
+		"respuesta": "Ukelele"
+	},
+	{
+		"num": "22",
+		"letra": "V",
+		"hint": "Empieza por V:",
+		"enunciado": "Mamífero rumiante domesticado, criado por su leche, carne y cuero",
+		"respuesta": "Vaca"
+	},
+	{
+		"num": "23",
+		"letra": "X",
+		"hint": "Contiene la X:",
+		"enunciado": "Conjunto de circunstancias o hechos que rodean a un acontecimiento o situación",
+		"respuesta": "Contexto"
+	},
+	{
+		"num": "24",
+		"letra": "Y",
+		"hint": "Empieza por Y:",
+		"enunciado": "Forma del verbo 'yacer' en tercera persona del pasado simple",
+		"respuesta": "Yacía"
+	},
+	{
+		"num": "25",
+		"letra": "Z",
+		"hint": "Empieza por Z:",
+		"enunciado": "Zafiro",
+		"respuesta": "Gema preciosa de color azul"
+	}
+],
+[{
+		"num": "0",
+		"letra": "A",
+		"hint": "Empieza por A:",
+		"enunciado": "Sentimiento de estima y reconocimiento que una persona tiene hacia quien le ha hecho un favor o prestado un servicio, por el cual desea corresponderle",
+		"respuesta": "Agradecimiento"
+	},
+	{
+		"num": "1",
+		"letra": "B",
+		"hint": "Empieza por B:",
+		"enunciado": "Sustancia que se utiliza para aliviar o curar heridas o dolencias",
+		"respuesta": "Bálsamo"
+	},
+	{
+		"num": "2",
+		"letra": "C",
+		"hint": "Empieza por C:",
+		"enunciado": "Precaución, prudencia o cuidado al tomar decisiones o actuar",
+		"respuesta": "Cautela"
+	},
+	{
+		"num": "3",
+		"letra": "D",
+		"hint": "Empieza por D:",
+		"enunciado": "Acción de emplear tiempo y esfuerzo en algo con determinación",
+		"respuesta": "Dedicación"
+	},
+	{
+		"num": "4",
+		"letra": "E",
+		"hint": "Empieza por E:",
+		"enunciado": "Estado de agitación o excitación intensa",
+		"respuesta": "Efervescencia"
+	},
+	{
+		"num": "5",
+		"letra": "F",
+		"hint": "Empieza por F:",
+		"enunciado": "Creación imaginativa o irreal",
+		"respuesta": "Fantasía"
+	},
+	{
+		"num": "6",
+		"letra": "G",
+		"hint": "Empieza por G:",
+		"enunciado": "Seguridad y respaldo de algo que se promete o se ofrece",
+		"respuesta": "Garantía"
+	},
+	{
+		"num": "7",
+		"letra": "H",
+		"hint": "Empieza por H:",
+		"enunciado": "Comportamiento adquirido que se repite de manera regular",
+		"respuesta": "Hábito"
+	},
+	{
+		"num": "8",
+		"letra": "I",
+		"hint": "Empieza por I:",
+		"enunciado": "Reproducir o copiar el comportamiento o apariencia de alguien o algo",
+		"respuesta": "Imitar"
+	},
+	{
+		"num": "9",
+		"letra": "J",
+		"hint": "Empieza por J:",
+		"enunciado": "Carne curada y ahumada obtenida de las patas traseras del cerdo",
+		"respuesta": "Jamón"
+	},
+	{
+		"num": "10",
+		"letra": "K",
+		"hint": "Empieza por K:",
+		"enunciado": "Saludo en japonés que significa 'hola' o 'buenos días'",
+		"respuesta": "Konichiwa"
+	},
+	{
+		"num": "11",
+		"letra": "L",
+		"hint": "Contiene la L:",
+		"enunciado": "Marca en la piel de color más oscuro que el resto debido a una concentración de melanina",
+		"respuesta": "Lunar"
+	},
+	{
+		"num": "12",
+		"letra": "M",
+		"hint": "Empieza por M:",
+		"enunciado": "Baúl o equipaje portátil utilizado para llevar pertenencias durante los viajes",
+		"respuesta": "Maleta"
+	},
+	{
+		"num": "13",
+		"letra": "N",
+		"hint": "Empieza por N:",
+		"enunciado": "Proceso de obtener y utilizar los nutrientes necesarios para el funcionamiento del cuerpo",
+		"respuesta": "Nutrición"
+	},
+	{
+		"num": "14",
+		"letra": "Ñ",
+		"hint": "Contiene la Ñ:",
+		"enunciado": "Unidad de tiempo que equivale a 365 días, utilizado para medir el período de la Tierra alrededor del sol",
+		"respuesta": "Año"
+	},
+	{
+		"num": "15",
+		"letra": "O",
+		"hint": "Empieza por O:",
+		"enunciado": "Aplauso o muestra de aprobación entusiasta hacia alguien o algo",
+		"respuesta": "Ovación"
+	},
+	{
+		"num": "16",
+		"letra": "P",
+		"hint": "Empieza por P:",
+		"enunciado": "Persona que enseña una materia o disciplina a otras personas",
+		"respuesta": "Profesor"
+	},
+	{
+		"num": "17",
+		"letra": "Q",
+		"hint": "Empieza por Q:",
+		"enunciado": "Formación anormal en el cuerpo que contiene líquido o materia semisólida",
+		"respuesta": "Quiste"
+	},
+	{
+		"num": "18",
+		"letra": "R",
+		"hint": "Empieza por R:",
+		"enunciado": "Camino o trayecto que se sigue para llegar a un lugar determinado",
+		"respuesta": "Ruta"
+	},
+	{
+		"num": "19",
+		"letra": "S",
+		"hint": "Empieza por S:",
+		"enunciado": "Acción de vencer obstáculos y mejorar en aspectos personales",
+		"respuesta": "Superación"
+	},
 
-		{
-			"num": "20",
-			"letra": "T",
-			"hint": "Empieza por T:",
-			"enunciado": "Premio o galardón que se otorga en reconocimiento a un logro o victoria",
-			"respuesta": "Trofeo"
-		},
-		{
-			"num": "21",
-			"letra": "U",
-			"hint": "Empieza por U:",
-			"enunciado": "Fruto redondo y jugoso que crece en racimos y se utiliza para hacer vino u otros productos alimenticios",
-			"respuesta": "Uva"
-		},
-		{
-			"num": "22",
-			"letra": "V",
-			"hint": "Empieza por V:",
-			"enunciado": "Sonido producido por las cuerdas vocales al hablar, cantar o gritar",
-			"respuesta": "Voz"
-		},
-		{
-			"num": "23",
-			"letra": "X",
-			"hint": "Empieza por X:",
-			"enunciado": "Técnica de impresión que utiliza planchas de madera grabadas para reproducir imágenes",
-			"respuesta": "Xilografía"
-		},
-		{
-			"num": "24",
-			"letra": "Y",
-			"hint": "Empieza por Y:",
-			"enunciado": "Acción de colocar cosas diferentes una al lado de la otra para resaltar sus diferencias",
-			"respuesta": "Yuxtaposición"
-		},
-		{
-			"num": "25",
-			"letra": "Z",
-			"hint": "Empieza por Z:",
-			"enunciado": "Zambullida",
-			"respuesta": "Acción de sumergirse o lanzarse al agua de forma rápida"
-		}
-	],
-	[{
+	{
+		"num": "20",
+		"letra": "T",
+		"hint": "Empieza por T:",
+		"enunciado": "Premio o galardón que se otorga en reconocimiento a un logro o victoria",
+		"respuesta": "Trofeo"
+	},
+	{
+		"num": "21",
+		"letra": "U",
+		"hint": "Empieza por U:",
+		"enunciado": "Fruto redondo y jugoso que crece en racimos y se utiliza para hacer vino u otros productos alimenticios",
+		"respuesta": "Uva"
+	},
+	{
+		"num": "22",
+		"letra": "V",
+		"hint": "Empieza por V:",
+		"enunciado": "Sonido producido por las cuerdas vocales al hablar, cantar o gritar",
+		"respuesta": "Voz"
+	},
+	{
+		"num": "23",
+		"letra": "X",
+		"hint": "Empieza por X:",
+		"enunciado": "Técnica de impresión que utiliza planchas de madera grabadas para reproducir imágenes",
+		"respuesta": "Xilografía"
+	},
+	{
+		"num": "24",
+		"letra": "Y",
+		"hint": "Empieza por Y:",
+		"enunciado": "Acción de colocar cosas diferentes una al lado de la otra para resaltar sus diferencias",
+		"respuesta": "Yuxtaposición"
+	},
+	{
+		"num": "25",
+		"letra": "Z",
+		"hint": "Empieza por Z:",
+		"enunciado": "Zambullida",
+		"respuesta": "Acción de sumergirse o lanzarse al agua de forma rápida"
+	}
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -688,7 +689,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Sustancia cristalina blanca utilizada para dar sabor a los alimentos",
-		"respuesta":"Sal"
+		"respuesta": "Sal"
 	},
 
 	{
@@ -733,8 +734,8 @@
 		"enunciado": "Zanahoria",
 		"respuesta": "Hortaliza de raíz alargada y color naranja"
 	}
-	],
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A5:",
@@ -872,7 +873,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Sustancia cristalina blanca utilizada para dar sabor a los alimentos",
-		"respuesta":"Sal"
+		"respuesta": "Sal"
 	},
 
 	{
@@ -917,8 +918,8 @@
 		"enunciado": "Zanahoria",
 		"respuesta": "Hortaliza de raíz alargada y color naranja"
 	}
-	],	
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A6",
 		"hint": "Empieza por A5:",
@@ -1056,7 +1057,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Sustancia cristalina blanca utilizada para dar sabor a los alimentos",
-		"respuesta":"Sal"
+		"respuesta": "Sal"
 	},
 
 	{
@@ -1101,8 +1102,8 @@
 		"enunciado": "Zanahoria",
 		"respuesta": "Hortaliza de raíz alargada y color naranja"
 	}
-	],	
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A7",
 		"hint": "Empieza por A5:",
@@ -1240,7 +1241,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Sustancia cristalina blanca utilizada para dar sabor a los alimentos",
-		"respuesta":"Sal"
+		"respuesta": "Sal"
 	},
 
 	{
@@ -1285,8 +1286,8 @@
 		"enunciado": "Zanahoria",
 		"respuesta": "Hortaliza de raíz alargada y color naranja"
 	}
-	],	
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A8",
 		"hint": "Empieza por A5:",
@@ -1424,7 +1425,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Sustancia cristalina blanca utilizada para dar sabor a los alimentos",
-		"respuesta":"Sal"
+		"respuesta": "Sal"
 	},
 
 	{
@@ -1469,8 +1470,8 @@
 		"enunciado": "Zanahoria",
 		"respuesta": "Hortaliza de raíz alargada y color naranja"
 	}
-	],		
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A9",
 		"hint": "Empieza por A5:",
@@ -1608,7 +1609,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Sustancia cristalina blanca utilizada para dar sabor a los alimentos",
-		"respuesta":"Sal"
+		"respuesta": "Sal"
 	},
 
 	{
@@ -1653,8 +1654,8 @@
 		"enunciado": "Zanahoria",
 		"respuesta": "Hortaliza de raíz alargada y color naranja"
 	}
-	],		
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -1792,7 +1793,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Estado de estar protegido o libre de peligro",
-		"respuesta":"Seguridad"
+		"respuesta": "Seguridad"
 	},
 
 	{
@@ -1837,8 +1838,8 @@
 		"enunciado": "Zapato",
 		"respuesta": "Calzado que cubre el pie"
 	}
-	],
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -1976,7 +1977,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Bosque denso y exuberante, típico de climas tropicales",
-		"respuesta":"Selva"
+		"respuesta": "Selva"
 	},
 	{
 		"num": "20",
@@ -2020,8 +2021,8 @@
 		"enunciado": "Zarcillo",
 		"respuesta": "Adorno para las orejas que cuelga de una perforación en el lóbulo"
 	}
-	],
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -2159,7 +2160,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Camino estrecho utilizado para caminar o transitar a pie",
-		"respuesta":"Sendero"
+		"respuesta": "Sendero"
 	},
 
 	{
@@ -2204,8 +2205,8 @@
 		"enunciado": "Zarzuela",
 		"respuesta": "Género musical español que combina música, canto y diálogos hablados"
 	}
-	],
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -2343,7 +2344,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Capacidad de percibir y sentir de manera intensa",
-		"respuesta":"Sensibilidad"
+		"respuesta": "Sensibilidad"
 	},
 
 	{
@@ -2388,8 +2389,8 @@
 		"enunciado": "Zelote",
 		"respuesta": "Partidario o seguidor fanático de una causa o creencia"
 	}
-	],
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -2527,7 +2528,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Vibración que se propaga a través del aire u otro medio y produce sensación auditiva",
-		"respuesta":"Sonido"
+		"respuesta": "Sonido"
 	},
 
 	{
@@ -2572,8 +2573,8 @@
 		"enunciado": "Bolsa de cuero o tela que se lleva a la espalda para transportar objetos",
 		"respuesta": "Zurrón"
 	}
-	],
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -2711,7 +2712,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Reptil largo y delgado que se arrastra y puede ser venenoso",
-		"respuesta":"Serpiente"
+		"respuesta": "Serpiente"
 	},
 
 	{
@@ -2756,8 +2757,8 @@
 		"enunciado": "Zigzag",
 		"respuesta": "Movimiento en forma de línea quebrada"
 	}
-	],	
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -2895,7 +2896,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Ausencia de ruido o sonido",
-		"respuesta":"Silencio"
+		"respuesta": "Silencio"
 	},
 
 	{
@@ -2940,8 +2941,8 @@
 		"enunciado": "Zoológico",
 		"respuesta": "Lugar donde se exhiben animales para su observación y estudio"
 	}
-	],
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -3079,7 +3080,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Área oscura que se produce cuando la luz es bloqueada por un objeto opaco",
-		"respuesta":"Sombre"
+		"respuesta": "Sombre"
 	},
 
 	{
@@ -3124,8 +3125,8 @@
 		"enunciado": "Zócalo",
 		"respuesta": "Parte inferior de una pared"
 	}
-	],	
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -3263,7 +3264,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Respuesta o resultado encontrado para resolver un problema o situación",
-		"respuesta":"Solución"
+		"respuesta": "Solución"
 	},
 	{
 		"num": "20",
@@ -3307,8 +3308,8 @@
 		"enunciado": "Zurrar",
 		"respuesta": "Dar golpes o castigar a alguien físicamente"
 	}
-	],
-	[{ 
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -3446,7 +3447,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Ser mitológico, generalmente representado como una criatura marina con cabeza de mujer y cuerpo de pez",
-		"respuesta":"Sirena"
+		"respuesta": "Sirena"
 	},
 
 	{
@@ -3491,8 +3492,8 @@
 		"enunciado": "Zorro",
 		"respuesta": "Mamífero carnívoro de pelaje rojizo y cola esponjosa"
 	}
-	],	
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -3630,7 +3631,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Conjunto de elementos interrelacionados que trabajan juntos como un todo",
-		"respuesta":"Sistema"
+		"respuesta": "Sistema"
 	},
 	{
 		"num": "20",
@@ -3674,8 +3675,8 @@
 		"enunciado": "Sonido agudo y continuo producido por insectos u otros objetos",
 		"respuesta": "Zumbido"
 	}
-	],	
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -3813,7 +3814,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Estrella que brilla en el centro de nuestro sistema solar y proporciona luz y calor a la Tierra",
-		"respuesta":"Sol"
+		"respuesta": "Sol"
 	},
 	{
 		"num": "20",
@@ -3857,8 +3858,8 @@
 		"enunciado": "Líquido extraído de las frutas o vegetales",
 		"respuesta": "Zumo"
 	}
-	],			
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -3996,7 +3997,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Cargo o posición que otorga beneficios económicos o ventajas sin requerir un esfuerzo o trabajo significativo",
-		"respuesta":"Sinecura"
+		"respuesta": "Sinecura"
 	},
 	{
 		"num": "20",
@@ -4040,8 +4041,8 @@
 		"enunciado": "Sensación de inquietud, angustia o temor, especialmente cuando se experimenta ante una situación incierta o amenazante",
 		"respuesta": "Zozobra"
 	}
-	],				
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -4179,7 +4180,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "En gramática, tipo de palabra que se utiliza para nombrar a personas, animales, cosas, lugares, ideas, entre otros",
-		"respuesta":"Sustantivo"
+		"respuesta": "Sustantivo"
 	},
 	{
 		"num": "20",
@@ -4223,8 +4224,8 @@
 		"enunciado": "Que es grosero, vulgar o de mal gusto en su comportamiento, actitud o lenguaje",
 		"respuesta": "Zafio"
 	}
-	],		
-	[{
+],
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -4362,7 +4363,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Figura retórica que consiste en expresar ironía de manera mordaz, burlona o satírica",
-		"respuesta":"Sarcasmo"
+		"respuesta": "Sarcasmo"
 	},
 	{
 		"num": "20",
@@ -4406,10 +4407,10 @@
 		"enunciado": "Niño o joven, especialmente en el ámbito rural o campesino",
 		"respuesta": "Zagal"
 	}
-	],		
-	
-	// Opcion 25
-	[{
+],
+
+// Opcion 25
+[{
 		"num": "0",
 		"letra": "A",
 		"hint": "Empieza por A:",
@@ -4547,7 +4548,7 @@
 		"letra": "S",
 		"hint": "Empieza por S:",
 		"enunciado": "Se refiere a algo o alguien que busca provocar cambios radicales o revolucionarios",
-		"respuesta":"Subversivo"
+		"respuesta": "Subversivo"
 	},
 	{
 		"num": "20",
@@ -4591,4 +4592,5 @@
 		"enunciado": "Término que se utiliza para describir una situación de desorden, confusión o alboroto, especialmente en el ámbito militar",
 		"respuesta": "Zafarrancho"
 	}
-];
+]
+]
